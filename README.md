@@ -9,7 +9,10 @@ Objectives
 - Organize patient queues effectively.
 - Enhance record management.
 - Improve communication between patients and hospital staff.
- Features
+
+
+
+Features
 - Patient registration
 - Queue number generation
 - Queue management
@@ -17,12 +20,18 @@ Objectives
 - Appointment management
 - Report generation
 - User authentication
- Technologies Used
+
+
+
+Technologies Used
 - HTML
 - CSS
 - JavaScript
 - PHP
 - MySQL
+
+
+
 Installation
 1. Download or clone the repository.
 2. Place the project in your web server directory (XAMPP or WAMP).
@@ -30,14 +39,19 @@ Installation
 4. Update the database connection settings.
 5. Start Apache and MySQL.
 6. Open the project in your browser.
+ 
+ 
  Authors
 -antony  Olupot
 Sinyo Julius Filipo
 Amutuhire mubbaraka
 Okalebo Ian Smith 
 Okia amisilamu
- Institution
+
+
+Institution
 Uganda Institute of Information and Communication Technology (UICT)
+
 Supervisor
 Barigye Robert
 License: This project was developed for academic purposes only.
