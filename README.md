@@ -46,9 +46,13 @@ Installation
  
  Authors
 -antony  Olupot
+
 Sinyo Julius Filipo
+
 Amutuhire mubbaraka
+
 Okalebo Ian Smith 
+
 Okia amisilamu
 
 
