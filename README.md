@@ -46,7 +46,7 @@ Installation
  
  Authors
  
-Anntony  Olupot
+Antony  Olupot
 
 Sinyo Julius Filipo
 
