@@ -58,8 +58,11 @@ Okia amisilamu
 
 
 Institution
+
 Uganda Institute of Information and Communication Technology (UICT)
 
 Supervisor
+
 Barigye Robert
+
 License: This project was developed for academic purposes only.
